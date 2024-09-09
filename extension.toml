@@ -4,7 +4,7 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Andi Heinkelein <andi@noname-media.com>"]
 description = "Zed extension for Firescript"
-repository = "https://gitlab.noname-media.com/Firescript/zed-extension-firescript.git"
+repository = "https://github.com/kippisone/zed-extension-firescript"
 
 [grammars.firescript]
 repository = "https://github.com/kippisone/tree-sitter-firescript"
