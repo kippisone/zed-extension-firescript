@@ -1,0 +1,11 @@
+id = "firescript"
+name = "Firescript"
+version = "0.0.1"
+schema_version = 1
+authors = ["Andi Heinkelein <andi@noname-media.com>"]
+description = "Zed extension for Firescript"
+repository = "https://gitlab.noname-media.com/Firescript/zed-extension-firescript.git"
+
+[grammars.firescript]
+repository = "https://github.com/kippisone/tree-sitter-firescript"
+commit = "76c4473c8d8f49e29f0f218f640e29ea9bb24248"

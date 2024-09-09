@@ -1,0 +1,4 @@
+name = "Firescript"
+grammar = "firescript"
+path_suffixes = ["fire"]
+line_comments = ["# "]
